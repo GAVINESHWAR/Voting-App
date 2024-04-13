@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Voting-App/static/css/main.4edcbbc3.css",
+    "main.js": "/Voting-App/static/js/main.6a9933d4.js",
+    "index.html": "/Voting-App/index.html",
+    "main.4edcbbc3.css.map": "/Voting-App/static/css/main.4edcbbc3.css.map",
+    "main.6a9933d4.js.map": "/Voting-App/static/js/main.6a9933d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4edcbbc3.css",
+    "static/js/main.6a9933d4.js"
+  ]
+}
